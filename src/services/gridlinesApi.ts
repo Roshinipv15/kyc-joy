@@ -1,6 +1,3 @@
-
-// Gridlines API service for KYC verification
-
 // Base API URL
 const API_BASE_URL = 'https://api.gridlines.io';
 
